@@ -2,7 +2,7 @@
 
 Welcome to this page where you can download all material related to the meetup presentation **Time Series Data - extracting, visualising and analysing of stock market securities**.
 
-## Pyhton Script
+## Python Script
 
 Python script is based on Jupyter Notebook and file name is: *Time_Series_Stock_Exchange_Presentation.ipynb*. It can be used without any restriction.
 
