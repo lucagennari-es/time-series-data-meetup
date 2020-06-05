@@ -4,7 +4,7 @@ Welcome to this page where you can download all material related to the meetup p
 
 ## Pyhton Script
 
-Python script is based on Jupyter Notebook and file is named: Time_Series_Stock_Exchange_Presentation.ipynb and can be used without any restriction.
+Python script is based on Jupyter Notebook and file is named: *Time_Series_Stock_Exchange_Presentation.ipynb* and can be used without any restriction.
 
 Inorder to work the scripts requires to install via pip the following libraries:
 
@@ -28,7 +28,7 @@ Here are provided all data already download, cleaned and in .csv format in case 
 
 ## Kibana Dashboards
 
-Visualizations and dashboards are provided as saved object and are stored inside **kibana** directory. Directory contains one file named: saved_object_kibana.ndjson.
+Visualizations and dashboards are provided as saved object and are stored inside **kibana** directory. Directory contains one file named: *saved_object_kibana.ndjson*.
 
 It is required that all indices with stock data are firstly created, the saved object includes the index patterns associated.
 
