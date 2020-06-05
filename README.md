@@ -4,7 +4,7 @@ Welcome to this page where you can download all material related to the meetup p
 
 ## Pyhton Script
 
-Python script is based on Jupyter Notebook and file name is: *Time_Series_Stock_Exchange_Presentation.ipynb* and can be used without any restriction.
+Python script is based on Jupyter Notebook and file name is: *Time_Series_Stock_Exchange_Presentation.ipynb*. It can be used without any restriction.
 
 Inorder to work the scripts requires to install via pip the following libraries:
 
