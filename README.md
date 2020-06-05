@@ -26,6 +26,23 @@ The part related to yahoo_earnings_calendar is not required unless you want the 
 
 Here are provided all data already download, cleaned and in .csv format in case you want directly inport with Logstash or other tolls and languages.
 
+## Kibana Dashboards
+
+Visualizations and dashboards are provided as saved object and are stored inside **kibana** directory. Directory contains one file named: saved_object_kibana.ndjson.
+
+It is required that all indices with stock data are firstly created, the saved object includes the index patterns associated.
+
+Name of indices used for this demo:
+
+* netflix_index
+* tesla_index
+* estc_index
+* okta_index
+* nasdaq_index
+* netflix_earning_index
+* tesla_earning_index
+* indeces_combined 
+
 ## In case of help
 
 Please send a mail to **luca.gennari@elastic.co** in case of comment, notes and help.
