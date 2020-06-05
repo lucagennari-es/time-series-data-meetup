@@ -45,4 +45,4 @@ Name of indices used for this demo:
 
 ## In case of help
 
-Please send a mail to **luca.gennari@elastic.co** in case of comment, notes and help.
+Please send a mail to **luca.gennari@elastic.co** in case of comment, notes, help or even just to have a beer!
