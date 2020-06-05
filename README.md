@@ -26,7 +26,7 @@ The part related to yahoo_earnings_calendar is not required unless you want the 
 
 Here are provided all data already download, cleaned and in .csv format in case you want directly inport with Logstash or other tools/languages.
 
-## Kibana Dashboards
+## Kibana Visualisations and Dashboards
 
 Visualizations and dashboards are provided as saved object and are stored inside **kibana** directory. Directory contains one file named: *saved_object_kibana.ndjson*.
 
