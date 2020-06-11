@@ -24,7 +24,7 @@ The part related to yahoo_earnings_calendar is not required unless you want the 
 
 ## Data
 
-Here are provided all data already download, cleaned and in .csv format in case you want directly inport with Logstash or other tools/languages.
+Here are provided all data already created, cleaned and in .csv format in case you want directly inport with Logstash or other tools/languages.
 
 ## Kibana Visualisations and Dashboards
 
